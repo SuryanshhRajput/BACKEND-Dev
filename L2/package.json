@@ -1,0 +1,12 @@
+{
+  "name": "l2",
+  "version": "1.0.0",
+  "description": "This the basic node learning",
+  "license": "ISC",
+  "author": "Suryansh Singh",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,2 @@
+hello ji kaise ho aap
+ I'm using fs.appendFile now 
