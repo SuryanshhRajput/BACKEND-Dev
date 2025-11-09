@@ -1,0 +1,15 @@
+{
+  "name": "l3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js",
+    "suryansh": "echo \"\u001b[Suryansh Singh is using new script to run the command for now\u001b]\" && node script.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SURYANSH",
+  "license": "ISC",
+  "type": "commonjs"
+}
